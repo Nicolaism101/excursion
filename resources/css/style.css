@@ -20,11 +20,16 @@
       margin: auto;
     }
 
-    h2 {
+    h2, footer {
       color: gray;
     }
+
     img {
       display: block;
       margin: auto;
       vertical-align: center;
     }
+
+    footer { 
+    text-align: right;
+     }
